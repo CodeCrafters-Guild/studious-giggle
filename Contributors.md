@@ -8,4 +8,4 @@ example :
 write your name below  
 -->
 
-1. hydradocs [Github](https://github.com/hydradocs), [Linkedin](https://linkedin.com/sourav-singh-sardar)
+1. hydradocs [Github](https://github.com/hydradocs), [Linkedin](https://www.linkedin.com/in/sourav-singh-sardar/)
